@@ -1,2 +1,2 @@
-# MyExampleSolution
-![alt text](https://raw.githubusercontent.com/TSBowen/MyExampleSolution/master/MyExampleSolution/QuickOverview.PNG)
+# IL-Rewriting
+Spike implementation of method body IL rewriting using C++ unmanaged libraries.
